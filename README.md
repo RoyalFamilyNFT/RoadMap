@@ -7,3 +7,7 @@
 4. Preparation of rooms in Metavars lands
 5. Provide a private meeting schedule and inform the characters
 6. Holding meetings (According to the whitepaper description)
+
+
+<a href="https://github.com/RoyalFamilyNFT/WhitePaper">★ WhitePaper</a></br>
+<a href="https://opensea.io/collection/diamondroom?search[sortAscending]=true&search[sortBy]=CREATED_DATE">★ Characters</a>
